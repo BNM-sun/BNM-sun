@@ -1,12 +1,4 @@
-# Hey, I'm B 👋
-
-Frontend developer from Gaborone, Botswana 🇧🇼  
-CS student building real products between lectures.
-
-## What I build
-- Web tools & dashboards (HTML, CSS, JavaScript)
-- Data-driven UIs with charts and localStorage
-- Landing pages with clean, modern design
+👋 I'm Batho. I step in when B2B SaaS founders lose money to broken auth flows, failed Stripe webhooks, or sluggish dashboards
 
 ## Featured Project
 **[PropRisk Sage](https://silly-starburst-ff0044.netlify.app)** — A live prop firm tracker for funded traders.  
