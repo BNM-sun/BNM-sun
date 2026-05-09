@@ -8,7 +8,7 @@ I'm the person B2B founders call when their app is broken and they're losing mon
     2.  I provide a clear diagnostic and a fixed-price quote.
     3.  You get back a stable, working product, often with a small, no-cost improvement I noticed along the way.
 
-## Tech
+## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
