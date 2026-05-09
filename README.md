@@ -1,9 +1,12 @@
-👋 I'm Batho. I step in when B2B SaaS founders lose money to broken auth flows, failed Stripe webhooks, or sluggish dashboards
+👋 I'm Batho Makgau - SaaS Rescue Engineer 
 
-## Featured Project
-**[PropRisk Sage](https://silly-starburst-ff0044.netlify.app)** — A live prop firm tracker for funded traders.  
-Compares 7+ firms side by side, flags hidden rules, tracks drawdown and trades.  
-Built with vanilla JS, Chart.js, and Supabase.
+I'm the person B2B founders call when their app is broken and they're losing money or sleep because of it. I step in when founders lose money to broken auth flows, failed Stripe webhooks, or sluggish dashboards
+
+*   *🚨 I Fix Critical Bugs:* I diagnose and resolve the errors that stall your growth, from *broken auth flows* that lock users out to *failed Stripe webhooks* that leave money on the table.
+*   *⚡ My Process is Simple:*
+    1.  You send me a Loom video of the bug.
+    2.  I provide a clear diagnostic and a fixed-price quote.
+    3.  You get back a stable, working product, often with a small, no-cost improvement I noticed along the way.
 
 ## Tech
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -15,4 +18,4 @@ Built with vanilla JS, Chart.js, and Supabase.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-📫 Open to freelance work
+📫 Open to new projects
